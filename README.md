@@ -13,24 +13,24 @@ The dataset used for this project consists of customer information from a subscr
 
 
 
-### 2) Problem Statement
+## 2) Problem Statement
 In today’s competitive marketplace, retaining customers is as important as acquiring new ones. The primary objective of this project is to predict customer churn for a subscription-based service using an Artificial Neural Network (ANN). Understanding which customers are likely to churn allows businesses to take proactive measures to retain them, ultimately reducing revenue loss.
 
 Customer churn not only affects the bottom line but also incurs higher costs in acquiring new customers to replace those who leave. By predicting churn accurately, businesses can target at-risk customers with tailored retention strategies.
 
-#### 3) Objective
+## 3) Objective
 The main objectives of this project are as follows:
 
 Data Analysis: Conduct a thorough analysis of the dataset to uncover insights and patterns that contribute to customer churn.
 Model Development: Build an ANN model to predict churn based on the features in the dataset. The model will be trained to recognize the patterns that lead to customer attrition.
 Performance Evaluation: Assess the model's accuracy and effectiveness using appropriate metrics, ensuring that it generalizes well to new, unseen data.
 
-##### 4) Motivation
+## 4) Motivation
 The motivation behind this project stems from the critical importance of customer retention in subscription-based business models. High churn rates can devastate a company’s revenue and market position. By leveraging machine learning techniques, businesses can gain valuable insights into customer behavior and develop effective strategies for retention.
 
 Investing in churn prediction not only minimizes revenue loss but also enhances customer satisfaction by allowing businesses to address issues before they lead to churn. This proactive approach fosters customer loyalty and increases overall profitability.
 
-##### 5) Project Gap
+## 5) Project Gap
 While there are numerous existing customer churn prediction models, many of these rely on traditional machine learning methods that may not fully capture the complexities of customer behavior. This project aims to address this gap by implementing an Artificial Neural Network, which has the potential to uncover intricate relationships within the data that simpler models might miss.
 
 By utilizing an ANN, we aim to improve prediction accuracy, providing businesses with a more powerful tool for understanding and preventing customer churn.
