@@ -35,7 +35,7 @@ While there are numerous existing customer churn prediction models, many of thes
 
 By utilizing an ANN, we aim to improve prediction accuracy, providing businesses with a more powerful tool for understanding and preventing customer churn.
 
-####### 6) Conclusion and Insights
+######## 6) Conclusion and Insights
 After developing and training the ANN model, we achieved a training accuracy of approximately 87.15% and a validation accuracy of 85.75%. These metrics indicate that the model effectively learns from the training data and can generalize to new instances.
 
 Key insights from the analysis highlighted that certain features, such as SubscriptionType, NumberOfLogins, and DurationOfUsage, significantly impact the likelihood of churn. For instance, customers on Basic plans demonstrated a higher churn rate compared to those on Premium plans, suggesting that enhancing the value proposition for Basic plan subscribers could improve retention.
